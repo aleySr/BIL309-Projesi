@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="CariSat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CariSatis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Irsaliyeler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Musteriler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Perakende.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PerakendeSatis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PesinSat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PesinSatis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Rapor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Stok.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Veresiye.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
